@@ -1,6 +1,6 @@
 
 
-# Cervical cancer screening prediction using Python
+# Cervical Cancer Screening prediction using Python
 ## TASKS
  Classification refers to categorizing the given data into classes. For example,
 - Given an image of hand-written character, identifying the character (multi-class classification)
@@ -43,4 +43,4 @@ best value on the test dataset.
 - Three evaluation metrics will be used for each classifier: Accuracy, Precision and Recall. (Show them in a Tabular format considering all the cases)
 - Plot the confusion matrix for each target variable.
   Note: You have to perform classification for each of the target variables individually for each classifier.
-# Check the notebook for implementation
+## Check The Notebook for Implementation
