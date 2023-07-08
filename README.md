@@ -2,7 +2,7 @@
 
 # Cervical cancer screening prediction using Python
 
-## Classification refers to categorizing the given data into classes. For example,
+ Classification refers to categorizing the given data into classes. For example,
 - Given an image of hand-written character, identifying the character (multi-class classification)
 - Given an image, annotating it with all the objects present in the image (multi-labelclassification)
 - Classifying an email as spam or non-spam (binary classification)
